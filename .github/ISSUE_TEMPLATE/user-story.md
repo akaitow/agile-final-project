@@ -23,6 +23,7 @@ assignees: ''
 ### Details and Assumptions
 * [document what you know]
 
+### The following asumes the functions has been implemented
 ```gherkin
 Given [some context]
 When [certain action is taken]
